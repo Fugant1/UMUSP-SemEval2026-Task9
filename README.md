@@ -1,4 +1,5 @@
-# UMUSP-SemEval2026-Task9
+# UMUSP at SemEval-2026 Task 9: Mitigating Cross-Lingual Interference
+via Selective Multilingual and Multitask Specialization
 UMUSP at SemEval-2026 Task 9: Mitigating Cross-Lingual Interference via Selective Multilingual and Multitask Specialization
 This paper proposes a selective multilingual
 and multitask fine-tuning strategy for online po-
